@@ -1,4 +1,4 @@
 # first-repo
 this is my first repo
 <br>
-Author-Ishaan Varshney
+Author-Ishaan Varshney or ishu
